@@ -1,4 +1,4 @@
-The IETF Administration LLC recently consulted on changes to the process it uses to identify and select venues for IETF meetings [1] and is now implementing the changes.  We are now consulting on the specifics of the assessment step of the new process  
+The IETF Administration LLC recently consulted on changes to the process it uses to identify and select venues for IETF meetings [1] and is now implementing the changes.  We are now consulting on the specifics of the assessment step of the new process.
 
 This venue assessment step is based around a proposed new venue asessment report [2] which records whether or not a proposed venue satisfies the following criteria, following the guidelines in RFC 8718 [3]:
 
